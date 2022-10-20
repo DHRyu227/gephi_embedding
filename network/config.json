@@ -5,17 +5,17 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "AI_Lab"
+    "text": "Sogang_AI_Lab"
   },
   "text": {
-    "more": "Embedding Graph",
-    "intro": "Embedding Graph",
-    "title": "Ebedding"
+    "more": "- Convert time series to point-in-time using Word2Vec model\n- Added sentiment probability for Financial Market",
+    "intro": "- Convert time series to point-in-time using Word2Vec model\n- Added sentiment probability for Financial Market",
+    "title": "Finace Market Embedding with Sentiment"
   },
   "legend": {
-    "edgeLabel": "cosin_similarity",
-    "colorLabel": "predict_sector",
-    "nodeLabel": "firm"
+    "edgeLabel": "Cosin_Similarity",
+    "colorLabel": "Sentiment",
+    "nodeLabel": "Firm_Name"
   },
   "features": {
     "search": true,
